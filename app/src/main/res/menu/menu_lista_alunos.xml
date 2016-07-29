@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/novo"
+        android:title="Novo"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_novo"/>
+    <item android:id="@+id/mpMapa"
+        android:icon="@drawable/ic_mapa"
+        android:title="@string/Mapa"
+        app:showAsAction="always"/>
+    <item android:id="@+id/env_alunos"
+        android:icon="@drawable/ic_enviar"
+        android:title="@string/enviar_alunos"
+        app:showAsAction="always"/>
+    <item android:id="@+id/rec_alunos"
+        android:icon="@mipmap/ic_receber"
+        android:title="@string/Receber_Alunos"
+        app:showAsAction="always"/>
+    <item android:id="@+id/pfPreferencias"
+        android:icon="@mipmap/ic_preferencias"
+        android:title="@string/preferencias"
+        app:showAsAction="always"/>
+</menu>

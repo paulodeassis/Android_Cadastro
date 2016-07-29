@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ligar"
+        android:title="@string/ligar"/>
+    <item
+        android:id="@+id/sms"
+        android:title="@string/enviar_sms"/>
+    <item
+        android:id="@+id/contextMenuMapa"
+        android:title="@string/mapa"/>
+    <item
+        android:id="@+id/contextMenuSite"
+        android:title="Site"/>
+    <item
+        android:id="@+id/deletar"
+        android:title="@string/deletar"/>
+    <item
+        android:id="@+id/email"
+        android:title="@string/enviar_e_mail"/>
+</menu>

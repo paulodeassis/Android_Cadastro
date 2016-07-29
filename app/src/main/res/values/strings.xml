@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="enviar_alunos">Enviar Alunos</string>
+    <string name="Mapa">Mapa</string>
+    <string name="Receber_Alunos">Receber Alunos</string>
+    <string name="nota">Nota:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="endere_o">Endereço</string>
+    <string name="site">Site:</string>
+    <string name="nome">Nome:</string>
+    <string name="salvar">salvar</string>
+    <string name="menu_daten_a">Menu</string>
+    <string name="ligar">Ligar</string>
+    <string name="enviar_sms">Enviar SMS</string>
+    <string name="mapa">Mapa</string>
+    <string name="deletar">Deletar</string>
+    <string name="enviar_e_mail">Enviar E-Mail</string>
+</resources>
